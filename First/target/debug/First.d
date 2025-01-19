@@ -1,1 +1,1 @@
-C:\Users\Volkan\OneDrive\Belgeler\GitHub\RustGitRepo\First\target\debug\First.exe: C:\Users\Volkan\OneDrive\Belgeler\GitHub\RustGitRepo\First\src\main.rs
+V:\GitHub\RustGitRepo\First\target\debug\First.exe: V:\GitHub\RustGitRepo\First\src\main.rs
