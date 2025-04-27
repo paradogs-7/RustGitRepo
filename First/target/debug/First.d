@@ -1,1 +1,1 @@
-V:\GitHub\RustGitRepo\First\target\debug\First.exe: V:\GitHub\RustGitRepo\First\src\main.rs
+/media/volkan/Kişisel/Github/RustGitRepo/First/target/debug/First: /media/volkan/Kişisel/Github/RustGitRepo/First/src/main.rs
