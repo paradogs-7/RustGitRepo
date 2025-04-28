@@ -1,0 +1,1 @@
+/media/volkan/Kişisel/Github/bootcamp-task-custom-filtering-function-rust/target/debug/bootcamp-task-custom-filtering-function-rust: /media/volkan/Kişisel/Github/bootcamp-task-custom-filtering-function-rust/src/main.rs
