@@ -2,7 +2,7 @@ use std::io::{self, Write};
 
 fn main() {
 
-    println!("");
+        println!("");
 
     let mut input = String::new();
 

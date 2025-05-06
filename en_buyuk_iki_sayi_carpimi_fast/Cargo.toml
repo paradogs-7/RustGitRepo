@@ -1,0 +1,6 @@
+[package]
+name = "en_buyuk_iki_sayi_carpimi_fast"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

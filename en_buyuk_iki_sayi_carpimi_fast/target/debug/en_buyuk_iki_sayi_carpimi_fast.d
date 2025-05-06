@@ -1,0 +1,1 @@
+/media/volkan/Kişisel/Github/RustGitRepo/en_buyuk_iki_sayi_carpimi_fast/target/debug/en_buyuk_iki_sayi_carpimi_fast: /media/volkan/Kişisel/Github/RustGitRepo/en_buyuk_iki_sayi_carpimi_fast/src/main.rs
